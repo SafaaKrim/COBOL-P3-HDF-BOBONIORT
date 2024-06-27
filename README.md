@@ -1,12 +1,12 @@
 
-# COBOL-P3-HDF-BOBONIORT&nbsp;&nbsp;&nbsp; <img src="boboniort.png" />
+# COBOL-P3-HDF-BOBONIORT&nbsp;&nbsp;&nbsp; ![Boboniort Logo](boboniort.png)
 
 Voici l'application développée au cours de notre mois de stage en organisation agile.
 
 ## Le sujet
 Nous avons reçu un courrier de la société **Boboniort** pour développer un écosystème applicatif afin d'améliorer l'efficacité de ses opérations internes.
 
-<img src="boboniort.png" />
+![Boboniort Logo](boboniort.png)
 
 ## La demande était la suivante
 - **Développer en COBOL**
