@@ -6,7 +6,7 @@ Voici l'application développée au cours de notre mois de stage en organisation
 ## Le sujet
 Nous avons reçu un courrier de la société **Boboniort** pour développer un écosystème applicatif afin d'améliorer l'efficacité de ses opérations internes.
 
-<p align="center"><img src="Boboniort.png" width="200" /></p>
+<p align="center"><img src="Boboniort.png" width="300" /></p>
 
 ## La demande était la suivante
 - **Développer en COBOL**
