@@ -1,4 +1,4 @@
-# COBOL-P3-HDF-BOBONIORT
+
 # COBOL-P3-HDF-BOBONIORT&nbsp;&nbsp;&nbsp; <img src="boboniort.png" />
 
 Voici l'application développée au cours de notre mois de stage en organisation agile.
